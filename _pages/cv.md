@@ -11,54 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Electrical Engineering**, Texas A&M University, 2001
+  * *Thesis:* A General Nonlinear Framework for the Analysis of Gene Interaction via Multivariate Expression Arrays
+* **M.S. in Agricultural Engineering**, Seoul National University, 1995
+* **B.S. in Agricultural Engineering**, Seoul National University, 1993
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **2016–Present:** Chief Scientist & Executive Professor, Prairie View A&M University (Director, Center for Computational Systems Biology)
+* **2016–2020:** Adjunct Faculty, Translational Genomics Research Institute (TGen)
+* **2011–2016:** Associate Professor, Integrated Cancer Genomics Division, TGen
+* **2011–2016:** Key Faculty, Center for Evolutionary Medicine and Informatics, Arizona State University
+* **2004–2011:** Assistant Professor, Dept. of Computer Science and Engineering, Arizona State University
+* **2003–2011:** Investigator, Computational Biology Division, TGen
+* **2001–2003:** Visiting Fellow, NIH/NHGRI (Cancer Genetics and Computational Biology)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Honors & Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **2009:** Best Paper Award, IEEE-BIBM
+* **2002:** AACR-AstraZeneca Scholarship-in-Training Award
+* **2000:** Student Travel Award, SPIE Conference
+* **1998:** ASAE Transactions Honorable Mention Paper Award
