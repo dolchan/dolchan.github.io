@@ -1,12 +1,16 @@
 main:
   - title: "About"
     url: /
+  - title: "News"
+    url: /news/
   - title: "CV"
     url: /cv/
   - title: "Publications"
     url: /publications/
   - title: "Teaching"
     url: /teaching/
+  - title: "Talks"
+    url: /talks/
 #  - title: "Talks"       # Uncomment if you want to add a talks page later
 #    url: /talks/
 #  - title: "Portfolio"   # Uncomment if you want to add a portfolio later
